@@ -1,6 +1,6 @@
 # Study Correlation Between the Number of Hospitals Per Person And GDP Per Capita Final Report
 
-###### Since I forgot my notebook open and IBM Watson Studio free usage time is used I will not be able to share neither my report nor code from IBM Watson. Instead I used Jupyter Labs to write the code and attached pdf that show my work. 
+######  Since IBM Watson Studio free usage time has finished, I will not be able to share neither my report nor code from IBM Watson. Instead I used Jupyter Labs to write the code and attached pdf that show my work. 
 
 
 ###### Introduction:
